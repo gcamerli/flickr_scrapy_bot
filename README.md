@@ -13,7 +13,7 @@ You must already have:
 + python (2.7 or 3.3 or above)
 + [Flickr API KEY](https://www.flickr.com/services/api/misc.api_keys.html)
 
-You need to install scrapy:
+You need to [install](https://doc.scrapy.org/en/latest/intro/install.html) scrapy:
 
 ```
 $ pip install scrapy  
