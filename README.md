@@ -25,7 +25,7 @@ It is recommended to [**set a virtual environment**](https://doc.scrapy.org/en/l
 Clone the repo:
 
 ```
-$ git clone git@github.com:gcamerli/flickr_scrapy_bot.git
+$ git clone https://github.com/gcamerli/flickr_scrapy_bot.git
 ```
 Change path:
 
