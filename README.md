@@ -32,16 +32,16 @@ Change path:
 ```
 $ cd flickr_scrapy_bot
 ```
-Run spider setting the Flickr API key:
+Run spider, setting up the Flickr API key:
 
 ```
-$ FLICKR_KEY=******** scrapy crawl flickr_scrapy_bot
+$ FLICKR_KEY=******** scrapy crawl flickr_cc
 ```
 
 If you want to save the scraped data to a file, you can pass the `-o` option:
 
 ```
-$ FLICKR_KEY=******** scrapy crawl flickr_scrapy_bot -o scraped_data.json
+$ FLICKR_KEY=******** scrapy crawl flickr_cc -o scraped_data.json
 ```
 
 Collected images are saved into images dir, which will be created if not exists.
