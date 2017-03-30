@@ -35,7 +35,13 @@ $ cd flickr_scrapy_bot
 Run crawler setting the API key:
 
 ```
-$ FLICKR_KEY=******* scrapy crawl flickr
+$ FLICKR_KEY=******** scrapy crawl flickr_scrapy_bot
+```
+
+If you want to save the scraped data to a file, you can pass the `-o` option:
+
+```
+$ FLICKR_KEY=******** scrapy crawl flickr_scrapy_bot -o scraped_data.json
 ```
 
 Collected images are saved into images dir, which will be created if not exists.
