@@ -40,6 +40,10 @@ $ FLICKR_KEY=******* scrapy crawl flickr
 
 Collected images are saved into images dir, which will be created if not exists.
 
+### **Documentation**
+
+All you need to know about **Scrapy** it is possible to find [here](https://doc.scrapy.org/en/1.3/index.html).
+
 ### **Credits**
 
 [@orangain](https://github.com/orangain): sushibot
