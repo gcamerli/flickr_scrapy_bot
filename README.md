@@ -32,7 +32,7 @@ Change path:
 ```
 $ cd flickr_scrapy_bot
 ```
-Run crawler setting the API key:
+Run spider setting the API key:
 
 ```
 $ FLICKR_KEY=******** scrapy crawl flickr_scrapy_bot
