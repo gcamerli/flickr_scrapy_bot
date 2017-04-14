@@ -6,6 +6,10 @@
 
 This bot collects images licensed under **CC** using [Flickr API](https://www.flickr.com/services/api/).
 
+### **Purpose**
+
+**Flickr Scrapy Bot** automates collecting of images on [creativechain.net](https://creativechain.net).
+
 ### **Requirements**
 
 You must already have:
