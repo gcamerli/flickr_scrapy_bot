@@ -4,7 +4,7 @@
 
 **Flickr Scrapy Bot** is a [web scraping](https://en.wikipedia.org/wiki/Web_scraping) build upon [Scrapy](https://scrapy.org), an application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications, like data mining, information processing or historical archival.
 
-This bot collects images licensed under **CC** using Flickr API.
+This bot collects images licensed under **CC** using [Flickr API](https://www.flickr.com/services/api/).
 
 ### **Requirements**
 
